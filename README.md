@@ -12,4 +12,6 @@ Esta é uma Landing Page feita com HTML, CSS e um leve toque de Javascript. Poss
 
 - Bootstrap
 
+OBS.: Formulário não funcional
+
 ![Edu Soares- Site One Page](https://user-images.githubusercontent.com/63206031/146563853-b2f3f54d-5560-44d6-b4c1-fc7c55808c14.png)
